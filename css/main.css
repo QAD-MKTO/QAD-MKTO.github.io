@@ -6070,14 +6070,14 @@ html, body {
 
 @font-face {
   font-family: "icomoon";
-  src: url("../fonts/icomoon.eot");
-  src: url("../fonts/icomoon.eot?#iefix") format("embedded-opentype"), url("../fonts/icomoon.woff") format("woff"), url("../fonts/icomoon.ttf") format("truetype"), url("../fonts/icomoon.svg#icomoon") format("svg");
+  src: url("http://qad-mkto.github.io/fonts/icomoon.eot");
+  src: url("http://qad-mkto.github.io/fonts/icomoon.eot?#iefix") format("embedded-opentype"), url("http://qad-mkto.github.io/fonts/icomoon.woff") format("woff"), url("http://qad-mkto.github.io/fonts/icomoon.ttf") format("truetype"), url("http://qad-mkto.github.io/fonts/icomoon.svg#icomoon") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: "socicon";
-  src: url("../fonts/socicon.eot");
-  src: url("../fonts/socicon.eot?#iefix") format("embedded-opentype"), url("../fonts/socicon.woff") format("woff"), url("../fonts/socicon.ttf") format("truetype"), url("../fonts/socicon.svg#socicon") format("svg");
+  src: url("http://qad-mkto.github.io/fonts/socicon.eot");
+  src: url("http://qad-mkto.github.io/fonts/socicon.eot?#iefix") format("embedded-opentype"), url("http://qad-mkto.github.io/fonts/socicon.woff") format("woff"), url("http://qad-mkto.github.io/fonts/socicon.ttf") format("truetype"), url("http://qad-mkto.github.io/fonts/socicon.svg#socicon") format("svg");
   font-weight: normal;
   font-style: normal; }
 [data-icon]:before {
