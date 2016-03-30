@@ -5813,7 +5813,7 @@ html, body {
   height: 100%; }
 
 .hero__container {
-  background: url("../images/LP-hero.jpg") no-repeat center center;
+  background: url("http://qad-mkto.github.io/images/LP-hero.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -5824,7 +5824,7 @@ html, body {
   .hero__logo--image {
     width: 90px;
     height: 90px;
-    background-image: url("../images/logo.jpg"); }
+    background-image: url("http://qad-mkto.github.io/images/logo.jpg"); }
 
 .content__column {
   padding-bottom: 20px; }
