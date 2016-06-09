@@ -5871,7 +5871,7 @@ html, body {
       .form form {
         padding: 0; } }
     .form form div {
-      width: 100% !important; }
+      max-width: 100% !important; }
     .form form .mktoFieldWrap {
       width: 100% !important; }
       .form form .mktoFieldWrap label {
@@ -6008,7 +6008,11 @@ html, body {
     .form form .mktoOffset {
       height: 0.2em; }
     .form form .mktoGutter {
-      line-height: .5em; }
+      line-height: .5em;
+      height: .5em; }
+    .form form .mktoAsterix {
+      padding: 0 2px 0 0;
+      float: left !important; }
     .form form .mktoButtonRow {
       text-align: center !important;
       padding: 10px 0; }
@@ -6057,7 +6061,12 @@ html, body {
     .social-icons__icon span {
       font-size: 1.8em;
       line-height: 2.4em;
-      vertical-align: middle; }
+      vertical-align: middle;
+      -webkit-transition: all 0.25s ease;
+      -o-transition: all 0.25s ease;
+      transition: all 0.25s ease; }
+      .social-icons__icon span:hover {
+        color: #adadad; }
   .social-icons a {
     text-decoration: none !important; }
     .social-icons a:focus {
