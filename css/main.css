@@ -6037,6 +6037,10 @@ html, body {
               width: 70% !important; } }
           .form form .mktoButtonRow span button:hover {
             background: #cd7e00; }
+  .form__policy {
+    color: rgba(255, 255, 255, 0.6); }
+    .form__policy a {
+      color: #fff; }
 
 .image__container {
   padding-top: 5px; }
@@ -6462,3 +6466,10 @@ html, body {
 
 .socicon-deezer:before {
   content: "\e06c"; }
+
+.cta-button__wrapper {
+  text-align: center;
+  padding: 3em 0; }
+.cta-button__button {
+  border: none !important;
+  margin: 0 auto; }
