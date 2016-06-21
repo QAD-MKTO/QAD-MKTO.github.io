@@ -5828,10 +5828,10 @@ html, body {
 
 .content__column {
   padding-bottom: 20px; }
-  .content__column--right {
+  .content__column--form {
     background-color: #5A87C5; }
     @media (min-width: 768px) {
-      .content__column--right {
+      .content__column--form {
         -webkit-border-radius: 4px;
         -moz-border-radius: 4px;
         -ms-border-radius: 4px;
@@ -5859,8 +5859,9 @@ html, body {
       border-radius: 4px; } }
   @media (min-width: 992px) {
     .form {
-      margin-top: -80px;
-      padding: 10px 25px; } }
+      padding: 10px 25px; }
+      .form.shift-up {
+        margin-top: -80px; } }
   .form p {
     padding-top: 10px; }
   .form form {
@@ -6475,7 +6476,7 @@ html, body {
 
 .cta-button__wrapper {
   text-align: center;
-  padding: 3em 0; }
+  padding: 2em 0; }
 .cta-button__button {
   border: none !important;
   margin: 0 auto; }
