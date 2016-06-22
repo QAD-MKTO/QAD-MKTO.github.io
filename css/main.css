@@ -6054,7 +6054,8 @@ html, body {
   max-width: 600px;
   margin: 0 auto; }
   .image__container img {
-    margin: 0 auto; }
+    margin: 0 auto;
+    display: block; }
 
 #wrapper {
   min-height: 100%;
