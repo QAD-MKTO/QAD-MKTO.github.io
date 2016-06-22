@@ -6053,7 +6053,7 @@ html, body {
   padding-top: 5px;
   max-width: 600px;
   margin: 0 auto; }
-  .image__container img {
+  .image__container > img {
     margin: 0 auto;
     display: block; }
 
