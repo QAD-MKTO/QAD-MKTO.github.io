@@ -6056,6 +6056,8 @@ html, body {
   .image__container > img {
     margin: 0 auto;
     display: block; }
+  .image__container > div {
+    height: 120px; }
 
 #wrapper {
   min-height: 100%;
